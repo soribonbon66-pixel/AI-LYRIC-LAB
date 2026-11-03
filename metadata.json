@@ -1,0 +1,6 @@
+{
+  "name": "Lyric Lab AI",
+  "description": "Entorno profesional de composición lírica con análisis de métrica poética, fonética española, sugerencias contextuales con IA y exportación a Suno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

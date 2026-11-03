@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer subtle cyan glow ring -->
+    <path
+        android:fillColor="#2200E5FF"
+        android:pathData="M54,24A30,30 0 1,1 54,84A30,30 0 1,1 54,24Z" />
+    <!-- Left and right equalizer bars -->
+    <path
+        android:fillColor="#FF00E5FF"
+        android:pathData="M30,46h4v16h-4zM37,39h4v30h-4zM67,39h4v30h-4zM74,46h4v16h-4z" />
+    <!-- Studio condenser microphone capsule & stand -->
+    <path
+        android:fillColor="#FFB388FF"
+        android:pathData="M54,30c-4.97,0 -9,4.03 -9,9v15c0,4.97 4.03,9 9,9s9,-4.03 9,-9V39c0,-4.97 -4.03,-9 -9,-9z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M67,53h-3c0,5.52 -4.48,10 -10,10s-10,-4.48 -10,-10h-3c0,6.53 4.84,11.93 11.14,12.84V73H46v3h16v-3h-6.14v-7.16C62.16,64.93 67,59.53 67,53z" />
+</vector>
